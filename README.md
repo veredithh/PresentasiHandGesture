@@ -10,3 +10,4 @@ Instalasi:
 5. Setelah selesai, Anda dapat menjalankan program dengan menjalankan perintah berikut:
    > python main.py
    (Gantilah "main.py" dengan nama file program Python yang sesuai.)
+6. Folder presentasi dapat diganti dengan _slide_ presentasi yang ingin digunakan. Format _slide_ presentasi disarankan menggunakan '.jpg' dengan ukuran 1280 x 720
