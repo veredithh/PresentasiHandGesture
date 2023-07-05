@@ -24,7 +24,7 @@ imgNumber = 0
 hs, ws = int(150 * 1.5), int(213 * 1.5)
 
 # Variabel Pembatas Gesture
-gestureThreshold = 300
+gestureThreshold = 250
 
 # Variabel Delay Gesture
 buttonPressed = False
@@ -48,7 +48,7 @@ while True:
     hands, img = detector.findHands(img)
 
     # Garis Pembatas Gesture
-    cv2.line(img, (0, gestureThreshold), (width, gestureThreshold), (0, 255, 0), 10)
+    cv2.line(img, (0, gestureThreshold), (width, gestureThreshold), (102, 255, 102), 10)
 
     if hands and buttonPressed is False:
         hand = hands[0]
