@@ -54,7 +54,7 @@ while True:
         hand = hands[0]
         fingers = detector.fingersUp(hand)
 
-
+        # Garis Tengah Tangan
         cx, cy = hand['center']
 
         # Tracking Jari Telunjuk
@@ -63,7 +63,6 @@ while True:
         xVal = int(np.interp(lmList[8][0], [width // 2, w], [0, width]))
         yVal = int(np.interp(lmList[8][1], [100, height - 100], [0, height]))
         indexFinger = xVal, yVal
-
 
         if cy <= gestureThreshold:
 
@@ -135,14 +134,15 @@ while True:
             if j != 0:
                 cv2.line(imgCurrent, annotations[i][j - 1], annotations[i][j], (0, 0, 200),12)
 
+    # Webcam di Dalam Slide
     imgSmall = cv2.resize(img, (ws, hs))
     h, w, _ = imgCurrent.shape
     imgCurrent[0:hs, w - ws:w] = imgSmall
 
-
     cv2.imshow("Image", img)
     cv2.imshow("Slides", imgCurrent)
 
+    # Break Program
     key = cv2.waitKey(1)
     if key == ord('q'):
         break
