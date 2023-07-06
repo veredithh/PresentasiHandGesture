@@ -10,7 +10,7 @@
 **Instalasi**:
 1. Pastikan **Python telah terinstal** di komputer Anda. Jika belum, Anda dapat mengunduh Python dari _https://www.python.org/downloads/_ dan mengikuti instruksi instalasi yang disediakan.
 2. Buka **terminal** atau **command prompt**.
-3.**Navigasikan ke direktori proyek** ini dengan **perintah 'cd'**.
+3.**Navigasikan ke direktori proyek** ini dengan perintah 'cd'.
 4. Jalankan perintah berikut untuk menginstal dependensi yang diperlukan:
    > **pip install -r requirements.txt**
    (Perintah ini akan menginstal semua module yang diperlukan secara otomatis.)
