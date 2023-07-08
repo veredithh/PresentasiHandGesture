@@ -20,6 +20,7 @@
 6. Folder presentasi dapat diganti dengan _slide_ presentasi yang ingin digunakan. Format _slide_ presentasi disarankan menggunakan '.jpg' dengan ukuran 1280 x 720
 
 **Perintah/Gesture Tangan**:
+
 Untuk memberikan perintah mengendalikan presentasi, user dapat mengangkat jarinya yang kemudian akan menghasilkan perintah sebagai berikut:
 1. Kembali ke Slide Sebelumnya : Jari Jempol
 2. Lanjut ke Slide Berikutnya : Jari Telunjuk dan Jari Tengah
