@@ -22,9 +22,9 @@
 **Perintah/Gesture Tangan**:
 
 Untuk memberikan perintah mengendalikan presentasi, user dapat mengangkat jarinya yang kemudian akan menghasilkan perintah sebagai berikut:
-1. Kembali ke Slide Sebelumnya : Jari Jempol
-2. Lanjut ke Slide Berikutnya : Jari Telunjuk dan Jari Tengah
-3. Pointer : Jari Telunjuk
-4. Menggambar pada Slide : Jari Telunjuk, Jari Tengah, dan Jari Manis
-5. Menghapus Gambar : Jari Telunjuk, Jari Tengah, Jari Manis, dan Jari Kelingkung
-6. Keluar dari Aplikasi/End Program : Jari Telunjuk dan Jari Kelingking/Tekan 'Q' pada keyboard
+1. **Kembali ke _Slide_ Sebelumnya** : Jari Jempol
+2. **Lanjut ke _Slide_ Berikutnya** : Jari Telunjuk dan Jari Tengah
+3. **_Pointer_** : Jari Telunjuk
+4. **Menggambar pada _Slide_** : Jari Telunjuk, Jari Tengah, dan Jari Manis
+5. **Menghapus Gambar** : Jari Telunjuk, Jari Tengah, Jari Manis, dan Jari Kelingkung
+6. **Keluar dari Aplikasi/_End Program_** : Jari Telunjuk dan Jari Kelingking/Tekan 'Q' pada keyboard
