@@ -24,7 +24,7 @@ imgNumber = 0
 hs, ws = int(150 * 1.5), int(213 * 1.5)
 
 # Variabel Pembatas Gesture
-gestureThreshold = 250
+gestureThreshold = 300
 
 # Variabel Delay Gesture
 buttonPressed = False

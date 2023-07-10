@@ -1,6 +1,6 @@
 opencv-python==4.7.0.72
 opencv-contrib-python==4.7.0.72
 mediapipe==0.8.9.1
-cvzone==1.5.6,
-numpy==1.25.0,
+cvzone==1.5.6
+numpy==1.25.0
 protobuf==3.20.3
