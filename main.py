@@ -90,7 +90,7 @@ while True:
 
             # Gesture 6 - Exit
             if fingers == [0, 1, 0, 0, 1]:
-                sys.exit('User keluar dari aplikasi')
+                break
 
         # Gesture 3 - Pointer
         if fingers == [0, 1, 0, 0, 0]:
